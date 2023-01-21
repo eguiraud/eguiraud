@@ -1,7 +1,7 @@
 ## Projects
 
 - most of my current work consists in designing and implementing high-level, high-performance data processing interfaces for high-energy physics use cases in [ROOT](https://github.com/root-project/root)
-- in my free time, I'm working on [kobold](https://gitlab.com/eguiraud/kobold-ssg), a static site generator written in Rust with a friendly CLI interface
+- in my free time, I'm working on [Kobold](https://gitlab.com/eguiraud/kobold-ssg), a static site generator written in Rust with a friendly CLI interface
 - in the past I worked extensively on [TVO](https://github.com/tvlearn/tvo), a PyTorch package for unsupervised learning via truncated variational optimization
 
 Here are [my dotfiles](https://gitlab.com/eguiraud/dotfiles) and [an Ansible playbook](https://gitlab.com/eguiraud/laptopsetup) to set up or re-create my environment starting from a base Arch Linux installation.  
