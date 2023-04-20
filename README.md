@@ -17,6 +17,6 @@ scientific and high-performance computing • tabletop role-playing games • li
 ## Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/eguiraud)
-- [GitHub](https://github.com/eguiraud) (duh)
+- [GitHub](https://github.com/eguiraud), mostly for work-related projects
 - most personal projects are on [GitLab](https://gitlab.com/eguiraud)
 - feel free to get in touch at [enrico.guiraud@pm.me](mailto:enrico.guiraud@pm.me): cold emails welcome
