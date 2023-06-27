@@ -11,10 +11,6 @@ Here are [my dotfiles](https://gitlab.com/eguiraud/dotfiles) and [an Ansible pla
 
 Rust • C++ • Python • [fish](https://github.com/fish-shell/fish-shell) • [Helix](https://helix-editor.com) • [perf](https://perf.wiki.kernel.org/index.php/Main_Page) • [Taskwarrior](https://taskwarrior.org) • [Ansible](https://www.ansible.com) • [Syncthing](https://syncthing.net)
 
-## Interests
-
-scientific and high-performance computing • tabletop role-playing games • chess • learning things
-
 ## Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/eguiraud)
