@@ -12,7 +12,7 @@ Rust • C++ • Python • [fish](https://github.com/fish-shell/fish-shell) •
 
 ## Interests
 
-scientific and high-performance computing • tabletop role-playing games • lifelong learning
+scientific and high-performance computing • tabletop role-playing games • chess • learning things
 
 ## Where to find me
 
