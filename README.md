@@ -13,6 +13,7 @@ Rust • C++ • Python • [fish](https://github.com/fish-shell/fish-shell) •
 
 ## Where to find me
 
+- on my personal website, [codekobold.io](https://codekobold.io)
 - [LinkedIn](https://www.linkedin.com/in/eguiraud)
 - [GitHub](https://github.com/eguiraud): mostly work-related projects
 - [GitLab](https://gitlab.com/eguiraud): most personal projects
