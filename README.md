@@ -1,3 +1,5 @@
+I like software that sparks joy.
+
 ## Projects
 
 - most of my current work consists in designing and implementing high-level, high-performance data processing interfaces for high-energy physics use cases in [ROOT](https://github.com/root-project/root)
