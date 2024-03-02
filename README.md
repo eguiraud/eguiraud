@@ -2,7 +2,7 @@ I like software that sparks joy.
 
 ## Projects
 
-- currently helping [Proxima Fusion](https://www.proximafusion.com) in its mission to bring fusion power to the grid, as a software engineer (mostly C++ and Python)
+- as a scientific software engineer, I'm currently helping [Proxima Fusion](https://www.proximafusion.com) in its mission to bring fusion power to the grid 
 - most of my past work consisted in designing and implementing high-level, high-performance data processing interfaces for high-energy physics use cases in [ROOT](https://github.com/root-project/root)
 - in my free time I'm working on [Kobold](https://gitlab.com/eguiraud/kobold-ssg), a static site generator written in Rust with a friendly CLI interface
 - over the years I built a number of small Telegram bots to help with various tasks -- [lastdatestanding_bot](https://gitlab.com/eguiraud/lastdatestanding_bot) in particular turned out to be surprisingly useful
